@@ -231,8 +231,8 @@ body{
 
 .footer{
     color: white;
-    font-size: 25px;
-    width: 95%;
+    font-size: 18px;
+    width: 90%;
     margin: auto;
     font-family: "Playwrite CU", cursive;
     font-optical-sizing: auto;
@@ -319,7 +319,7 @@ button{
     }
 
     .footer{
-        font-size: 40px;
+        font-size: 30px;
     }
 }
 
