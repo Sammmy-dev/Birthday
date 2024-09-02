@@ -5,14 +5,12 @@
 }
 
 html{
-    height: 100%;
     width: 100%;
 }
 
 body{
     background-image: url("./resources/vecteezy_monochrome-birthday-pattern-with-cute-hand-drawn-doodles_.jpg");
     background-size: 500px 500px;
-    height: 100%;
     background-blend-mode: overlay;
     position: relative;
     width: 100%;
